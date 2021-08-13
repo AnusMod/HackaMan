@@ -1,0 +1,1 @@
+reg add "C:\Users\jonia\Desktop" /v Wallpaper /t REG_SZ /d C:\Users\jonia\Desktop\Download.jpg /f
