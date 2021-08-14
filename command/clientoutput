@@ -1,8 +1,0 @@
--OUTPUT FROM CLIENT-
-C:\windows\system32\config\sam VORDEFINIERT\Administratoren:(I)(F)
-                               NT-AUTORITŽT\SYSTEM:(I)(F)
-                               VORDEFINIERT\Benutzer:(I)(RX)
-                               ZERTIFIZIERUNGSSTELLE FšR ANWENDUNGSPAKETE\ALLE ANWENDUNGSPAKETE:(I)(RX)
-                               ZERTIFIZIERUNGSSTELLE FšR ANWENDUNGSPAKETE\ALLE EINGESCHRŽNKTEN ANWENDUNGSPAKETE:(I)(RX)
-
-1 Dateien erfolgreich verarbeitet, bei 0 Dateien ist ein Verarbeitungsfehler aufgetreten.
