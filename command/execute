@@ -1,0 +1,1 @@
+copy %windir%\system32\cmd.exe C:\Users\Anwender\Desktop\cmd.exe
