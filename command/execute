@@ -1,0 +1,1 @@
+Powershell -Command "Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('seggs?', 'lool', 4, 32)"
