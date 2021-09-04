@@ -1,1 +1,0 @@
-sendkeys 524 82 & timeout /t 1 & sendkeys 67 77 68 17 16 10 & timeout /t 1 & sendkeys 73 80 67 79 78 70 73 71 10
