@@ -1,0 +1,38 @@
+-OUTPUT FROM CLIENT-
+
+Windows-IP-Konfiguration
+
+
+Ethernet-Adapter Radmin VPN:
+
+   Verbindungsspezifisches DNS-Suffix: 
+   IPv6-Adresse. . . . . . . . . . . : fdfd::1a0b:aa20
+   Verbindungslokale IPv6-Adresse  . : fe80::543b:5d6e:36d6:836c%15
+   IPv4-Adresse  . . . . . . . . . . : 26.11.170.32
+   Subnetzmaske  . . . . . . . . . . : 255.0.0.0
+   Standardgateway . . . . . . . . . : 26.0.0.1
+
+Unbekannter Adapter LAN-Verbindung 2:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: 
+
+Ethernet-Adapter Ethernet 2:
+
+   Verbindungsspezifisches DNS-Suffix: 
+   Verbindungslokale IPv6-Adresse  . : fe80::ac5c:1c7e:981:bb1e%22
+   IPv4-Adresse  . . . . . . . . . . : 192.168.56.1
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : 
+
+Unbekannter Adapter LAN-Verbindung:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: 
+
+Ethernet-Adapter Ethernet:
+
+   Verbindungsspezifisches DNS-Suffix: box
+   IPv4-Adresse  . . . . . . . . . . : 192.168.0.103
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : 192.168.0.1
