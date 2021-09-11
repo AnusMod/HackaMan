@@ -1,0 +1,21 @@
+-OUTPUT FROM CLIENT-
+
+Schnittstelle: 26.132.3.74 --- 0x4
+  Internetadresse       Physische Adresse     Typ
+  26.0.0.1              02-00-00-00-51-00     dynamisch 
+  26.5.7.64             02-50-11-bf-8a-d6     dynamisch 
+  26.255.255.255        ff-ff-ff-ff-ff-ff     statisch  
+  224.0.0.22            01-00-5e-00-00-16     statisch  
+  224.0.0.251           01-00-5e-00-00-fb     statisch  
+  224.0.0.252           01-00-5e-00-00-fc     statisch  
+  239.255.255.250       01-00-5e-7f-ff-fa     statisch  
+
+Schnittstelle: 192.168.178.60 --- 0xd
+  Internetadresse       Physische Adresse     Typ
+  192.168.178.1         c8-0e-14-8d-a3-79     dynamisch 
+  192.168.178.255       ff-ff-ff-ff-ff-ff     statisch  
+  224.0.0.22            01-00-5e-00-00-16     statisch  
+  224.0.0.251           01-00-5e-00-00-fb     statisch  
+  224.0.0.252           01-00-5e-00-00-fc     statisch  
+  239.255.255.250       01-00-5e-7f-ff-fa     statisch  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statisch  
